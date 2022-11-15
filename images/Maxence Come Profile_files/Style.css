@@ -1,0 +1,23 @@
+body {
+background-color: #B01E68;
+color: #F49D1A;
+font-family: Courier;
+}
+h1 {
+	color: #F49D1A;
+	font-family:Helvetica ;
+}
+ h2 {
+	font-family: Roboto;
+	color: #FFE15D;
+}
+a {
+	text-decoration: none;
+	color: #DC3535;
+}
+a:hover {
+	color: royalblue;
+}
+p {
+	font-family: Roboto, sans-serif;
+}
